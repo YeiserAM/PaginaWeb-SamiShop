@@ -60,7 +60,7 @@
                         <img src="img/Junior Lucas Cayetano.jpeg" alt="">
                     </div>
                     <div class="texto-team">
-                        <h4>Junior Lucas, Cayetano</h4>
+                        <h4>Junior Lucas Cayetano</h4>
                     </div>
                 </div>
                 <div class="content-card">
@@ -68,7 +68,7 @@
                         <img src="img/Isabel Lucia Parco Daga.jpeg" alt="">
                     </div>
                     <div class="texto-team">
-                        <h4>Isabel Lucia, Parco</h4>
+                        <h4>Isabel Lucia Parco</h4>
                         
                     </div>
                 </div>
@@ -77,7 +77,7 @@
                         <img src="img/Claudia María Saucedo Rodrígue.jpeg" alt="">
                     </div>
                     <div class="texto-team">
-                        <h4>Claudia María, Saucedo</h4>
+                        <h4>Claudia María Saucedo</h4>
                         
                     </div>
                 </div>
@@ -86,7 +86,7 @@
                         <img src="img/ALVINO LLANOS, EMANUEL SEBASTIAN.jpeg" alt="">
                     </div>
                     <div class="texto-team">
-                        <h4>Emanuel Sebastian, Alvino</h4>
+                        <h4>Emanuel Sebastian Alvino</h4>
                         
                     </div>
                 </div>
@@ -201,27 +201,30 @@
                 <div class="caja-servicios">
                     <img src="img/stores.svg" alt="">
                     <h4>Productos de calidad</h4>
-                    <p>Somos ti tienda favorita SAMI SHOP</p>
+                    <p>Somos tu tienda favorita SAMI SHOP</p>
                 </div>
                 <div class="caja-servicios">
                     <img src="img/deliveryy.svg" alt="">
                     <h4>Delivery</h4>
-                    <p>Somos ti tienda favorita SAMI SHOP</p>
+                    <p>Somos tu tienda favorita SAMI SHOP</p>
                 </div>
                 <div class="caja-servicios">
                     <img src="img/pay.svg" alt="">
                     <h4>100 % legal con Boletas y Facturas</h4>
-                    <p>Somos ti tienda favorita SAMI SHOP</p>
+                    <p>Somos tu tienda favorita SAMI SHOP</p>
                 </div>
             </div>
         </div>
     </section>
+
+    
     
     <footer id="contacto">
         
         </div>
 
     </footer>
+
     <script src="js/jquery.js"></script>
     <script src="js/main.js"></script>
     <script src="js/filtro.js"></script>
