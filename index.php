@@ -225,6 +225,8 @@
 
     </footer>
 
+    <!-- Código de instalación Cliengo para https://samishop.herokuapp.com --> <script type="text/javascript">(function () { var ldk = document.createElement('script'); ldk.type = 'text/javascript'; ldk.async = true; ldk.src = 'https://s.cliengo.com/weboptimizer/5f8f47dc99aceb002a4681cf/5f8f5b47b6c0e2002ab37f58.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ldk, s); })();</script>
+
     <script src="js/jquery.js"></script>
     <script src="js/main.js"></script>
     <script src="js/filtro.js"></script>
