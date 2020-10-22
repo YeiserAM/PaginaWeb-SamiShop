@@ -11,6 +11,7 @@
         crossorigin="anonymous">
     <link rel="stylesheet" href="font.css">
 
+
     
 
 </head>
@@ -35,8 +36,9 @@
                 </div>
                 <div class="enlaces" id="enlaces">
                     <a href="#" id="enlace-inicio" class="btn-header">Inicio</a>
-                    <a href="#" id="enlace-equipo" class="btn-header">Equipo</a>
                     <a href="#" id="enlace-trabajo" class="btn-header">Productos</a>
+                    <a href="#" id="enlace-ofertas" classs="btn-header">Ofertas</a>
+                    <a href="#" id="enlace-equipo" class="btn-header">Equipo</a>
                     <a href="#" id="enlace-servicio" class="btn-header">Servicios</a>
                
                 </div>
@@ -51,58 +53,9 @@
         </div>
     </header>
     <main>
-        <section class="team contenedor" id="equipo">
-            <h3>Nuestro equipo</h3>
-            <p class="after">Conoce a la gente asombrosa y creativa</p>
-            <div class="card">
-                <div class="content-card">
-                    <div class="people">
-                        <img src="img/Junior Lucas Cayetano.jpeg" alt="">
-                    </div>
-                    <div class="texto-team">
-                        <h4>Junior Lucas Cayetano</h4>
-                    </div>
-                </div>
-                <div class="content-card">
-                    <div class="people">
-                        <img src="img/Isabel Lucia Parco Daga.jpeg" alt="">
-                    </div>
-                    <div class="texto-team">
-                        <h4>Isabel Lucia Parco</h4>
-                        
-                    </div>
-                </div>
-                <div class="content-card">
-                    <div class="people">
-                        <img src="img/Claudia María Saucedo Rodrígue.jpeg" alt="">
-                    </div>
-                    <div class="texto-team">
-                        <h4>Claudia María Saucedo</h4>
-                        
-                    </div>
-                </div>
-                <div class="content-card">
-                    <div class="people">
-                        <img src="img/ALVINO LLANOS, EMANUEL SEBASTIAN.jpeg" alt="">
-                    </div>
-                    <div class="texto-team">
-                        <h4>Emanuel Sebastian Alvino</h4>
-                        
-                    </div>
-                </div>
-                <div class="content-card">
-                    <div class="people">
-                        <img src="img/María Fernanda Villalobos Napán4.jpeg" alt="">
-                    </div>
-                    <div class="texto-team">
-                        <h4>María Fernanda, Villalobos</h4>
-                       
-                    </div>
-                </div>
-                
-            </div>
-        </section>
-        
+
+<!--Esta seccion es de NUESTROS PRODUCTOS-->
+
         <section class="work contenedor" id="trabajo">
             <h3>Nuestros Productos</h3>
             <p class="after">Brindamos lo mejor para nuestros clientes!</p>
@@ -191,7 +144,93 @@
                 </div> -->
             </div>
         </section>
+
+<!--OFERTAS-->
+
+    <section class="slide-contenedor" id="ofertas">
+         <h3>Ofertas</h3>
+         <p class="after"></p>
+           <div class="slide-contenedor">
+            <div class="miSlider">
+                <img src="img/oferta.jpeg" alt="">
+            </div>
+            <div class="miSlider">
+                <img src="img/oferta2.jpg" alt="">
+            </div>
+            <div class="miSlider">
+                <img src="img/oferta3.jpg" alt="">
+            </div>
+            <div class="barras">
+                <span class="barra active" onclick="posicionSlide(1)"></span>
+                <span class="barra" onclick="posicionSlide(2)"></span>
+                <span class="barra" onclick="posicionSlide(3)"></span>
+            </div>
+            <!-- <div class="direcciones">
+                <a href="#" class="atras" onclick="avanzaSlide(-1)">&#10094</a>
+                <a href="#" class="siguiente" onclick="avanzaSlide(1)">&#10095</a>
+            </div> -->
+            
+        </div>  
+        </section> 
+
+<!--Esta seccion es de NUESTRO EQUIPO-->
+
+        <section class="team contenedor" id="equipo">
+            <h3>Nuestro equipo</h3>
+            <p class="after">Conoce a la gente asombrosa y creativa</p>
+            <div class="card">
+                <div class="content-card">
+                    <div class="people">
+                        <img src="img/Junior Lucas Cayetano.jpeg" alt="">
+                    </div>
+                    <div class="texto-team">
+                        <h4>Junior Lucas Cayetano</h4>
+                    </div>
+                </div>
+                <div class="content-card">
+                    <div class="people">
+                        <img src="img/Isabel Lucia Parco Daga.jpeg" alt="">
+                    </div>
+                    <div class="texto-team">
+                        <h4>Isabel Lucia Parco</h4>
+                        
+                    </div>
+                </div>
+                <div class="content-card">
+                    <div class="people">
+                        <img src="img/Claudia María Saucedo Rodrígue.jpeg" alt="">
+                    </div>
+                    <div class="texto-team">
+                        <h4>Claudia María Saucedo</h4>
+                        
+                    </div>
+                </div>
+                <div class="content-card">
+                    <div class="people">
+                        <img src="img/ALVINO LLANOS, EMANUEL SEBASTIAN.jpeg" alt="">
+                    </div>
+                    <div class="texto-team">
+                        <h4>Emanuel Sebastian Alvino</h4>
+                        
+                    </div>
+                </div>
+                <div class="content-card">
+                    <div class="people">
+                        <img src="img/María Fernanda Villalobos Napán4.jpeg" alt="">
+                    </div>
+                    <div class="texto-team">
+                        <h4>María Fernanda, Villalobos</h4>
+                       
+                    </div>
+                </div>
+                
+            </div>
+        </section>
+        
+        
     </main>
+
+    <!--Esta seccion es de NUESTROS SERVICIOS-->
 
     <section class="about" id="servicio">
         <div class="contenedor">
@@ -221,11 +260,14 @@
     
     <footer id="contacto">
         
-        </div>
+        <script SameSite="None; Secure" src="https://static.landbot.io/landbot-3/landbot-3.0.0.js"></script>
+        <script>
+            var myLandbot = new Landbot.Livechat({
+            configUrl: 'https://chats.landbot.io/v3/H-736869-5WXN18ILQOVJRHJU/index.json',
+  });
+</script>
 
     </footer>
-
-    <!-- Código de instalación Cliengo para https://samishop.herokuapp.com --> <script type="text/javascript">(function () { var ldk = document.createElement('script'); ldk.type = 'text/javascript'; ldk.async = true; ldk.src = 'https://s.cliengo.com/weboptimizer/5f8f47dc99aceb002a4681cf/5f8f5b47b6c0e2002ab37f58.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ldk, s); })();</script>
 
     <script src="js/jquery.js"></script>
     <script src="js/main.js"></script>
