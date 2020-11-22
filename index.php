@@ -69,8 +69,8 @@
             </div>
             <div class="galeria-work">
                 <div class="cont-work programacion">
-                    <div class="img-work">
-                        <img src="img/nodisponible.jpg" alt="">
+                    <div class="img-work"  >
+                        <img src="img/Enterizos Largos/1.jpg" alt="">
                     </div>
                     <div class="textos-work">
                         <h4>Producto no disponible - S/ 00.00</h4>
@@ -80,7 +80,7 @@
                 
                 <div class="cont-work programacion">
                     <div class="img-work">
-                        <img src="img/nodisponible.jpg" alt="">
+                        <img src="img/Enterizos Largos/2.jpg" alt="">
                     </div>
                     <div class="textos-work">
                         <h4>Producto no disponible - S/ 00.00</h4>
@@ -88,7 +88,23 @@
                 </div>
                 <div class="cont-work programacion">
                     <div class="img-work">
-                        <img src="img/nodisponible.jpg" alt="">
+                        <img src="img/Enterizos Largos/3.jpg" alt="">
+                    </div>
+                    <div class="textos-work">
+                        <h4>Producto no disponible - S/ 00.00</h4>
+                    </div>
+                </div>
+                <div class="cont-work programacion">
+                    <div class="img-work">
+                        <img src="img/Enterizos Largos/4.jpg" alt="">
+                    </div>
+                    <div class="textos-work">
+                        <h4>Producto no disponible - S/ 00.00</h4>
+                    </div>
+                </div>
+                <div class="cont-work programacion">
+                    <div class="img-work">
+                        <img src="img/Enterizos Largos/5.jpg" alt="">
                     </div>
                     <div class="textos-work">
                         <h4>Producto no disponible - S/ 00.00</h4>
@@ -151,9 +167,7 @@
          <h3>Ofertas</h3>
          <p class="after"></p>
            <div class="slide-contenedor">
-            <div class="miSlider">
-                <img src="img/oferta.jpeg" alt="">
-            </div>
+           
             <div class="miSlider">
                 <img src="img/oferta2.jpg" alt="">
             </div>
