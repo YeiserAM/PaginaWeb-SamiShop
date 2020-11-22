@@ -70,7 +70,7 @@
             <div class="galeria-work">
                 <div class="cont-work programacion">
                     <div class="img-work"  >
-                        <img src="img/Enterizos Largos/1.jpg" alt="">
+                        <img src="img/Enterizos Largos/1-new.jpg" alt="">
                     </div>
                     <div class="textos-work">
                         <h4>Producto no disponible - S/ 00.00</h4>
@@ -80,7 +80,7 @@
                 
                 <div class="cont-work programacion">
                     <div class="img-work">
-                        <img src="img/Enterizos Largos/2.jpg" alt="">
+                        <img src="img/Enterizos Largos/2-new.jpg" alt="">
                     </div>
                     <div class="textos-work">
                         <h4>Producto no disponible - S/ 00.00</h4>
@@ -88,7 +88,7 @@
                 </div>
                 <div class="cont-work programacion">
                     <div class="img-work">
-                        <img src="img/Enterizos Largos/3.jpg" alt="">
+                        <img src="img/Enterizos Largos/3-new.jpg" alt="">
                     </div>
                     <div class="textos-work">
                         <h4>Producto no disponible - S/ 00.00</h4>
@@ -96,7 +96,7 @@
                 </div>
                 <div class="cont-work programacion">
                     <div class="img-work">
-                        <img src="img/Enterizos Largos/4.jpg" alt="">
+                        <img src="img/Enterizos Largos/4-new.jpg" alt="">
                     </div>
                     <div class="textos-work">
                         <h4>Producto no disponible - S/ 00.00</h4>
@@ -104,7 +104,7 @@
                 </div>
                 <div class="cont-work programacion">
                     <div class="img-work">
-                        <img src="img/Enterizos Largos/5.jpg" alt="">
+                        <img src="img/Enterizos Largos/5-new.jpg" alt="">
                     </div>
                     <div class="textos-work">
                         <h4>Producto no disponible - S/ 00.00</h4>
